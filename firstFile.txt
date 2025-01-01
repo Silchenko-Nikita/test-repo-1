@@ -1,7 +1,7 @@
-git_1 firstFile 1
-git_1 firstFile 2
-git_1 firstFile 3
-git_1 firstFile 4
+git_1 update firstFile 1
+git_1 update firstFile 2
+git_1 update2 firstFile 3
+git_1 update2 firstFile 4
 git_1 firstFile 5
 git_1 firstFile 6
 git_1 firstFile 7

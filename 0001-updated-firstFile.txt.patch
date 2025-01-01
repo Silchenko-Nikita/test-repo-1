@@ -1,0 +1,24 @@
+From 3e7fd632ca0d28b387c9b1484464c38ec24aad98 Mon Sep 17 00:00:00 2001
+From: Mykyta Sylchenko <nikitiuss@gmail.com>
+Date: Thu, 19 Jun 2025 13:21:16 +0300
+Subject: [PATCH] updated firstFile.txt
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index e8fb350..0df152b 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,5 +1,5 @@
+-git_1 firstFile 1
+-git_1 firstFile 2
++git_1 update firstFile 1
++git_1 update firstFile 2
+ git_1 firstFile 3
+ git_1 firstFile 4
+ git_1 firstFile 5
+-- 
+2.45.2.windows.1
+
