@@ -1,5 +1,5 @@
-git_1 secondFile 1
-git_1 secondFile 2
+git_1 update secondFile 1
+git_1 update secondFile 2
 git_1 secondFile 3
 git_1 secondFile 4
 git_1 secondFile 5
